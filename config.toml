@@ -1,0 +1,28 @@
+baseURL = '//massimilianofurlangit.github.io'
+languageCode = 'en-us'
+title = 'Massimiliano Furlan '
+theme = "researcher"
+
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 1
+
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
