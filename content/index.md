@@ -17,7 +17,7 @@ I am student.
 
 I like infinitely repeated games.
 
-## Equations
+## Nice Equations
 
 {{< math >}}
 $$
