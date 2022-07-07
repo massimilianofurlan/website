@@ -1,6 +1,7 @@
-+++
-title = "Massimiliano"
-+++
+---
+math: true
+title: "Massimiliano"
+---
 
 Email: [massimiliano.furlan[at]studio.unibo.it](mailto:massimiliano.furlan[at]studio.unibo.it)
 
@@ -15,6 +16,14 @@ I am student.
 ## Research Interest
 
 I like infinitely repeated games.
+
+## Equations
+
+{{< math >}}
+$$
+	v_\pi(s_t) = \max_{a_t \in A(s_t)} \! \big\{ E_F\! \left[r_{t} + \delta v_\pi \! \left(s_{t+1}\right)| s_t,a_t\right] \big\}, \quad r_t, s_{t+1}  \sim F(r_t,s_{t+1}| s_t,a_t)
+$$
+{{< /math >}}
 
 ## Publications
 

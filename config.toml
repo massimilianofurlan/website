@@ -3,14 +3,15 @@ languageCode = 'en-us'
 title = 'Massimiliano Furlan '
 theme = "researcher"
 
+math = true
 
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  [params.style]  # appearance options (can be omitted)
+  [params.style]
     fontFamily = "Inconsolata"
     pageWidth = "750px"
-    avatarSize = "90px"
+    #avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
 
