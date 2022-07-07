@@ -25,7 +25,7 @@ disableKinds = ["taxonomy", "term"]
     weight = 1
   [[menu.main]]
     name = "PGP"
-    url = "/public-key.gpg"
+    url = "/public-key.txt"
     weight = 2
 
 [markup.goldmark.renderer]
