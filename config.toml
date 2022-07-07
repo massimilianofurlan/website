@@ -23,7 +23,10 @@ disableKinds = ["taxonomy", "term"]
     name = "Resume"
     url = "/resume.pdf"
     weight = 1
-
+  [[menu.main]]
+    name = "PGP"
+    url = "/public-key.gpg"
+    weight = 2
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
