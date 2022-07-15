@@ -5,7 +5,7 @@ title: "Massimiliano"
 
 Email: [massimiliano.furlan[at]studio.unibo.it](mailto:massimiliano.furlan[at]studio.unibo.it)
 
-GitHub: [https://github.com/massimilianofurlangit](https://github.com/massimilianofurlangit)
+GitHub: [https://github.com/massimilianofurlangit](https://github.com/massimilianofurlan)
 
 <!--- Twitter: [https://twitter.com/massimiliano_tw](https://twitter.com/massimiliano_tw) -->
 
