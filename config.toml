@@ -1,6 +1,6 @@
 baseURL = '//massimilianofurlan.github.io'
 languageCode = 'en-us'
-title = 'Massimiliano Furlan '
+title = 'Massimiliano Furlan'
 theme = "researcher"
 
 math = true
@@ -27,6 +27,10 @@ disableKinds = ["taxonomy", "term"]
     name = "PGP"
     url = "/public-key.txt"
     weight = 2
+  [[menu.main]]
+    name = "Bookmarks"
+    url = "/bookmarks"
+    weight = 3
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files

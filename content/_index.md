@@ -1,6 +1,6 @@
 ---
 math: true
-title: "Massimiliano"
+title: "Massimiliano Furlan"
 ---
 
 Email: [massimiliano.furlan[at]studio.unibo.it](mailto:massimiliano.furlan[at]studio.unibo.it)
@@ -11,7 +11,7 @@ GitHub: [https://github.com/massimilianofurlan](https://github.com/massimilianof
 
 ## About Me
 
-I am student.
+I am a student.
 
 ## Research Interest
 
