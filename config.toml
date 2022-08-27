@@ -1,4 +1,4 @@
-baseURL = '//massimilianofurlan.github.io'
+baseURL = 'https://massimilianofurlan.github.io'
 languageCode = 'en-us'
 title = 'Massimiliano Furlan'
 theme = "researcher"
