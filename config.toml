@@ -2,9 +2,8 @@ baseURL = '//massimilianofurlan.github.io'
 languageCode = 'en-us'
 title = 'Massimiliano Furlan'
 theme = "researcher"
-
+googleAnalytics = "7tdl8at7CNbIgx1GLlN6MIRht_sIIkgwWZSncgesciQ"
 math = true
-
 disableKinds = ["taxonomy", "term"]
 
 [params]
