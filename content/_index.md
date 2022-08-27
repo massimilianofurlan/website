@@ -3,19 +3,20 @@ math: true
 title: "Massimiliano Furlan"
 ---
 
-Email: [massimiliano.furlan[at]studio.unibo.it](mailto:massimiliano.furlan[at]studio.unibo.it)
+Email: [massimiliano[dot]furlan[at]warwick.ac.uk](mailto:massimiliano[dot]furlan[at]warwick.ac.uk)
 
 GitHub: [https://github.com/massimilianofurlan](https://github.com/massimilianofurlan)
 
-<!--- Twitter: [https://twitter.com/massimiliano_tw](https://twitter.com/massimiliano_tw) -->
+{{< figure class="me" src="/me.jpg" alt="me">}}
+
 
 ## About Me
 
-I am a student.
+I am a student at the University of Warwick
 
 ## Research Interest
 
-I like infinitely repeated games.
+I like infinitely repeated games. 
 
 ## Nice Equations
 
