@@ -2,15 +2,18 @@ baseURL = 'https://massimilianofurlan.github.io'
 languageCode = 'en-us'
 title = 'Massimiliano Furlan'
 theme = "researcher"
-googleAnalytics = "7tdl8at7CNbIgx1GLlN6MIRht_sIIkgwWZSncgesciQ"
+
+
 math = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
+  description = "Massimiliano's personal website"
+  author = "Massimiliano Furlan"
+  
   [params.style]
     fontFamily = "Inconsolata"
     pageWidth = "750px"
-    #avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
 
