@@ -9,13 +9,13 @@ GitHub: [https://github.com/massimilianofurlan](https://github.com/massimilianof
 
 ## About Me
 
-I am a student at the University of Warwick
+MRes in Economics at the University of Warwick
 
 ## Research Interest
 
-I like infinitely repeated games. 
+I like infinitely repeated games
 
-## Nice Equations
+## A Nice Equation
 
 {{< math >}}
 $$
@@ -23,6 +23,3 @@ $$
 $$
 {{< /math >}}
 
-## Publications
-
-None. 

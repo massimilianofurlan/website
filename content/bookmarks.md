@@ -2,15 +2,11 @@
 title: "Bookmarks"
 ---
 
-## WWW
-
 Opinion blog (Italian): [Wittgenstein](https://www.wittgenstein.it)
 
 Best Italian newspaper: [ilPost](http://www.ilpost.it)
 
 Gilbert Strang - Linear Algebra [[link]](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-
-## Apps
 
 LaTeX editor: [TeXShop](https://pages.uoregon.edu/koch/texshop/)
 
