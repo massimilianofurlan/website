@@ -13,7 +13,7 @@ MRes in Economics at the University of Warwick
 
 ## Research Interest
 
-I like infinitely repeated games
+I like infinitely repeated games and coding 
 
 ## A Nice Equation
 
