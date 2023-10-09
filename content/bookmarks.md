@@ -2,15 +2,15 @@
 title: "Bookmarks"
 ---
 
-Opinion blog (Italian): [Wittgenstein](https://www.wittgenstein.it)
+An opinion blog (Italian): [Wittgenstein](https://www.wittgenstein.it)
 
 Best Italian newspaper: [ilPost](http://www.ilpost.it)
-
-Gilbert Strang - Linear Algebra [[link]](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
 LaTeX editor: [TeXShop](https://pages.uoregon.edu/koch/texshop/)
 
 Reference manager: [BibDesk](https://bibdesk.sourceforge.io)
+
+DOI to BibTeX: [doi2bib](https://www.doi2bib.org)
 
 Messaging app: [Signal](https://signal.org)
 
