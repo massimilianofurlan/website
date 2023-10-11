@@ -11,3 +11,6 @@ Email: [massimiliano[dot]furlan[at]warwick.ac.uk](mailto:massimiliano[dot]furlan
 
 GitHub: [https://github.com/massimilianofurlan](https://github.com/massimilianofurlan)
 
+# Work in progress
+
+Cheap Talking Algorithms (with [Daniele Condorelli](https://www.condorelli.science)) [[pdf]](/rl_cheap_talk.pdf) 
