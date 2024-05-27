@@ -5,7 +5,7 @@ title: "Massimiliano Furlan"
 
 MRes in Economics at the University of Warwick
 
-I am interested in applications of game thory
+I am interested in applications of game theory
 
 Email: [massimiliano[dot]furlan[at]warwick.ac.uk](mailto:massimiliano[dot]furlan[at]warwick.ac.uk)
 
@@ -13,4 +13,4 @@ GitHub: [https://github.com/massimilianofurlan](https://github.com/massimilianof
 
 #### Work in progress
 
-Cheap Talking Algorithms (with [Daniele Condorelli](https://www.condorelli.science)) [[pdf]](/rl_cheap_talk.pdf) 
+Cheap Talking Algorithms (with [Daniele Condorelli](https://www.condorelli.science)) [[pdf]](/rl_cheap_talk.pdf) [[code]](https://github.com/massimilianofurlan/rl_cheap_talk) 
