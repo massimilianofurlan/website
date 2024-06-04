@@ -13,4 +13,4 @@ GitHub: [https://github.com/massimilianofurlan](https://github.com/massimilianof
 
 #### Work in progress
 
-Cheap Talking Algorithms (with [Daniele Condorelli](https://www.condorelli.science)) [[pdf]](/rl_cheap_talk.pdf) [[code]](https://github.com/massimilianofurlan/rl_cheap_talk) 
+Cheap Talking Algorithms (with [Daniele Condorelli](https://www.condorelli.science)) [[pdf]](https://arxiv.org/pdf/2310.07867) [[code]](https://github.com/massimilianofurlan/rl_cheap_talk) 
